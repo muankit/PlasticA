@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "411349216752",
+    "firebase_url": "https://greenathon-df39e.firebaseio.com",
+    "project_id": "greenathon-df39e",
+    "storage_bucket": "greenathon-df39e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411349216752:android:478d281386a98e3a",
+        "android_client_info": {
+          "package_name": "com.example.muank.greenathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411349216752-elb61m1sgemvsmrgkadte2sk2ribgfll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muank.greenathon",
+            "certificate_hash": "d1cd01159438e36a24f9f5663604d25b9afe862a"
+          }
+        },
+        {
+          "client_id": "411349216752-omungbtgjstthehgm6pm2frci0rrotrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkOd33oURSXBpo6G6_24tYUB6v9rT2PHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411349216752-omungbtgjstthehgm6pm2frci0rrotrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
